@@ -167,3 +167,99 @@ body {
 .education {
     background-color: #eae9c8;
 }
+
+.adoption-area {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.adoption-gallery {
+    display: inline-block;
+}
+
+.adoption-gallery img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.adoption-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #099ee4;
+    margin: 0;
+}
+
+.adoption-description {
+    font-size: 20px;
+    font-weight: 300;
+    color: #18111d;
+    padding: 10px 0;
+}
+
+.newsletter-container {
+    width: 80%;
+    margin: auto;
+}
+
+.newsletter-area {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.newsletter-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #099ee4;
+    margin: 0;
+}
+
+.newsletter-description {
+    font-size: 20px;
+    font-weight: 300;
+    color: #18111d;
+    padding: 10px 0;
+}
+
+.newsletter-input {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.newsletter-background {
+    width: 60%;
+    margin: auto;
+    background-color: #efeed5;
+    padding: 70px 60px;
+    border-radius: 10px;
+}
+
+.newsletter-input {
+    width: 300px;
+    text-align: center;
+    border: 2px solid #ff5350;
+    padding: 12px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-right: -10px;
+}
+
+.newsletter-input-value {
+    color: #ffffff;
+    background-color: #ff5350;
+    width: 120px;
+    text-align: center;
+    border: 2px solid #ff5350;
+    padding: 12px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+}
+
+.footer-container {
+    color: #ffffff;
+    margin-top: 100px;
+    text-align: center;
+    background-color: #0c0113;
+    padding: 30px 0;
+}
