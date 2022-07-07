@@ -123,3 +123,47 @@ body {
     border: none;
     padding: 10px;
 }
+
+.donate-plan-area {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.donate-plan-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #099ee4;
+    margin: 0;
+}
+
+.donate-plan-description {
+    font-size: 20px;
+    font-weight: 300;
+    color: #18111d;
+    padding: 10px 0;
+}
+
+.donate-card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.donate-card {
+    text-align: left;
+    width: auto;
+    height: auto;
+    background-color: #dae5ea;
+    margin-left: 10px;
+    padding: 20px;
+}
+
+.shelter {
+    background-color: #e1cdc7;
+}
+
+.education {
+    background-color: #eae9c8;
+}
