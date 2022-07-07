@@ -37,8 +37,32 @@ body {
 
 .donate-button {
     padding: 10px 40px;
-    background-color: coral;
+    background-color: #ff5350;
     border-radius: 10px;
     color: white;
     text-decoration: none;
+}
+
+.donate-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.donate-content {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.donate-title {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.donate-description {
+    font-size: 20px;
+    font-weight: 300;
+    color: #44364e;
+    padding: 10px 0;
 }
