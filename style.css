@@ -36,9 +36,9 @@ body {
 }
 
 .donate-button {
-    padding: 10px 40px;
-    background-color: rgb(255, 83, 80);
-    border-radius: 10px;
+    padding: 10px 30px;
+    background-color: #ff5350;
+    border-radius: 5px;
     color: white;
     text-decoration: none;
 }
@@ -104,4 +104,22 @@ body {
     font-weight: 600;
     color: #000000cc;
     margin: 0;
+}
+
+.donate-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.donate-area {
+    text-align: center;
+}
+
+.donate-input-area {
+    width: 350px;
+    text-align: center;
+    border: none;
+    padding: 10px;
 }
